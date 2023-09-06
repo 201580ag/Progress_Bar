@@ -1,0 +1,8 @@
+tqdm
+progressbar
+tkinter
+PyQt5
+CLI
+asyncio
+rich
+pygame
